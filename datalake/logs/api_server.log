@@ -1,0 +1,54 @@
+2024-04-06 07:30:33,293:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:30:33,293:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:30:33,298:INFO: * Restarting with stat
+2024-04-06 07:30:34,468:WARNING: * Debugger is active!
+2024-04-06 07:30:34,469:INFO: * Debugger PIN: 142-721-108
+2024-04-06 07:32:42,984:INFO:127.0.0.1 - - [06/Apr/2024 07:32:42] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 07:32:43,084:INFO:127.0.0.1 - - [06/Apr/2024 07:32:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 07:34:32,292:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:34:32,292:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:34:32,294:INFO: * Restarting with stat
+2024-04-06 07:34:33,458:WARNING: * Debugger is active!
+2024-04-06 07:34:33,461:INFO: * Debugger PIN: 142-721-108
+2024-04-06 07:53:37,380:INFO:127.0.0.1 - - [06/Apr/2024 07:53:37] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:00:24,369:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:00:24,375:INFO:127.0.0.1 - - [06/Apr/2024 08:00:24] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-06 08:03:52,329:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:03:52,335:INFO:127.0.0.1 - - [06/Apr/2024 08:03:52] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-06 08:04:21,450:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:04:21,450:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:04:21,452:INFO: * Restarting with stat
+2024-04-06 08:04:22,632:WARNING: * Debugger is active!
+2024-04-06 08:04:22,633:INFO: * Debugger PIN: 142-721-108
+2024-04-06 08:04:25,502:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:04:30,512:INFO:Prediction: [1680147.94681147]
+2024-04-06 08:04:30,512:INFO:127.0.0.1 - - [06/Apr/2024 08:04:30] "POST / HTTP/1.1" 200 -
+2024-04-06 08:06:49,305:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:06:49,308:INFO:Prediction: [1680147.94681147]
+2024-04-06 08:06:49,308:INFO:127.0.0.1 - - [06/Apr/2024 08:06:49] "POST / HTTP/1.1" 200 -
+2024-04-06 08:08:56,741:INFO: * Detected change in 'C:\\Users\\ASUS\\Documents\\repositories\\taller-presencial-Arley6mith\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:08:56,962:INFO: * Restarting with stat
+2024-04-06 08:08:58,187:WARNING: * Debugger is active!
+2024-04-06 08:08:58,189:INFO: * Debugger PIN: 142-721-108
+2024-04-06 08:21:25,701:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:21:25,701:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:21:25,707:INFO: * Restarting with stat
+2024-04-06 08:21:26,973:WARNING: * Debugger is active!
+2024-04-06 08:21:26,975:INFO: * Debugger PIN: 142-721-108
+2024-04-06 08:22:43,214:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:22:44,572:INFO:Prediction: [1680147.94681147]
+2024-04-06 08:22:44,573:INFO:127.0.0.1 - - [06/Apr/2024 08:22:44] "POST / HTTP/1.1" 200 -
+2024-04-06 09:15:24,705:INFO:127.0.0.1 - - [06/Apr/2024 09:15:24] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 09:20:45,060:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 09:20:45,060:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:20:45,062:INFO: * Restarting with stat
+2024-04-06 09:20:46,265:WARNING: * Debugger is active!
+2024-04-06 09:20:46,268:INFO: * Debugger PIN: 142-721-108
+2024-04-06 09:23:30,409:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:23:31,553:INFO:Prediction: [181150.2369646]
+2024-04-06 09:23:31,554:INFO:127.0.0.1 - - [06/Apr/2024 09:23:31] "POST / HTTP/1.1" 200 -
